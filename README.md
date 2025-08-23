@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Daniel</h1>
-<h3 align="center">I'm a software developer in the Washington, D.C. area working to make life easier with technology.</h3>
+<h3 align="center">I'm a senior software engineer, tech lead, and technical manager in the Washington, D.C. area working to make life easier with technology.</h3>
 
 <h2>Contact Me</h2>
   <a href="https://www.linkedin.com/in/danieltmccloskey/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
