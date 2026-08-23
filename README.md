@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Daniel</h1>
-<h3 align="center">I'm a senior software engineer, tech lead, and technical manager in the Washington, D.C. area working to make life easier with technology.</h3>
+<h3 align="center">I'm a senior software engineer on the Florida Space Coast working to make life easier with technology.</h3>
 
 <h2>Contact Me</h2>
   <a href="https://www.linkedin.com/in/danieltmccloskey/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -7,34 +7,12 @@
 
 <h2>Worked On</h2>
 
-- <p><b>Government Contract Tech Challenge - Details TBA</b></p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
 - <p><b>HSI RAVEN Platform UIUX Tech Challenge</b></p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  
-  - <p><a href="https://github.com/Acuity-Inc/uiux-spring-api" target="_blank" rel="noopener noreferrer">API</a></p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-    - Relevant info TBA
 
-  - <p><a href="https://github.com/Acuity-Inc/uiux-react-native-ios" target="_blank" rel="noopener noreferrer">UI</a></p>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
-  
-    - Relevant info TBA
 - Check out my <a href="https://github.com/danieltmc?tab=repositories" target="_blank" rel="noopener noreferrer">repos</a> for more projects
 
 - ✨ See more at [https://danieltmc.com/](https://danieltmc.com/)
